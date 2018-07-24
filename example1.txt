@@ -4,3 +4,4 @@ excercise for git stash
 excercise for git cherry pick
 excercise for git tags
 excercise for git tags
+excercise for git fetch 
